@@ -22,7 +22,10 @@ The Simple Calculator App is a straightforward web application that allows users
 
 # Live Demo
 
-[Live Demo of Simple Calculator App]()
+[Live Demo of Simple Calculator App](https://dharsinijagadeesan.github.io/Simple_Calculator-ReactJs/)
 
 # OUTPUT SCREENSHOTS
- 
+
+ ![image](https://github.com/user-attachments/assets/47d534e9-0409-4a6f-9fb7-228778d9b06b)
+
+![image](https://github.com/user-attachments/assets/118f3d17-1ccd-4f1f-a7ba-0d8a4e072a5f)
