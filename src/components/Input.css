@@ -1,0 +1,30 @@
+.input-wrapper {
+    height: 10em;
+    display: flex;
+    flex-direction: column; /* Stack the text and result vertically */
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 16px;
+    background-color: #f0f0f0; /* Optional: add a light background to the input area */
+    border-radius: 10px;
+}
+
+/* Styling for the result */
+.result {
+    font-size: 24px; /* Increase font size for better visibility */
+    font-weight: bold; /* Make the result bold */
+    color: #333; /* Darker color for better contrast */
+    text-align: right; /* Align the result to the right */
+    margin-bottom: 10px; /* Add some space between result and text */
+    width: 100%;
+}
+
+/* Styling for the input text */
+.text {
+    font-size: 18px; /* Slightly larger font size for the text */
+    color: #666; /* Lighter color for input text */
+    text-align: right; /* Align text to the right */
+    width: 100%;
+}
+
+ 
